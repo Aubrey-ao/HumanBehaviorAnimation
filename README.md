@@ -15,7 +15,7 @@ Yuke Lou,
 ACM Trans. Graph. 41, 6, Article 209.
 <sub>
 ------------
-<img src ="Media/SIGGRAPH_Asia_2022/teaser.pdf" width="100%">
+<img src="Media/SIGGRAPH_Asia_2022/teaser.png" width="100%">
 
 <p align="justify">
 Automatic synthesis of realistic co-speech gestures is an increasingly important yet challenging task in artificial embodied agent creation. In this work, we present a novel co-speech gesture synthesis method that achieves convincing results both on the rhythm and semantics. For the rhythm, our system contains a robust rhythm-based segmentation pipeline to ensure the temporal coherence between the vocalization and gestures explicitly. For the gesture semantics, we devise a mechanism to effectively disentangle both low- and high-level neural embeddings of speech and motion based on linguistic theory. The high-level embedding corresponds to semantics, while the low-level embedding relates to subtle variations. Lastly, we build correspondence between the hierarchical embeddings of the speech and the motion, resulting in rhythm and semantics-aware gesture synthesis.
@@ -28,6 +28,7 @@ Video (<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">YouTube</a> | <a h
 Paper (comming soon)
 -
 Code (comming soon)
+-
 </p>
 
 Acknowledgement
