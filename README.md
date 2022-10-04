@@ -25,7 +25,7 @@ Automatic synthesis of realistic co-speech gestures is an increasingly important
 -
 Video (<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">YouTube</a> | <a href="https://www.bilibili.com/video/BV1RG411J74F/">Bilibili</a>)
 -
-Paper (comming soon)
+Paper (<a href="">arXiv</a>)
 -
 Code (comming soon)
 -
