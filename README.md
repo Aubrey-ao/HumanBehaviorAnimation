@@ -9,7 +9,7 @@ This project explores the human behavior animation, including gesture, etc., as 
 <sub>
 Tenglong Ao,
 <a href="https://talegqz.github.io/">Qingzhe Gao</a>,
-Yuke Lou,
+<a href="https://thorin666.github.io/">Yuke Lou</a>,
 <a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
 <a href="http://libliu.info/">Libin Liu</a>,
 ACM Trans. Graph. 41, 6, Article 209.
