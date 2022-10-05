@@ -23,12 +23,18 @@ Automatic synthesis of realistic co-speech gestures is an increasingly important
 
 <p align="center">
 -
-Video (<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">YouTube</a> | <a href="https://www.bilibili.com/video/BV1RG411J74F/">Bilibili</a>)
+Video (<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">YouTube</a> | <a href="https://www.bilibili.com/video/BV1G24y1d7Tt/">Bilibili</a>)
 -
-Paper (<a href="">arXiv</a>)
+Paper (<a href="https://arxiv.org/abs/2210.01448/">arXiv</a>)
 -
 Code (comming soon)
 -
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">
+<img width="60%" src="Media/SIGGRAPH_Asia_2022/thumbnail_YouTube.png">
+</a>
 </p>
 
 Acknowledgement
