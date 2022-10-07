@@ -1,7 +1,7 @@
 Human Behavior Animation
 ============
 
-This project explores the human behavior animation, including gesture, etc., as part of my graduate research at the Peking University, supervised by <a href="http://libliu.info/">Libin Liu</a>.
+This project explores the human behavior animation, including gesture, etc., as part of my graduate research at Peking University, supervised by <a href="http://libliu.info/">Libin Liu</a>.
 
 ------------
 **SIGGRAPH Asia 2022**<br />
