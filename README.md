@@ -7,10 +7,10 @@ This project explores the human behavior animation, including gesture, etc., as 
 **SIGGRAPH Asia 2022**<br />
 **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**<br />
 <sub>
-Tenglong Ao,
+<a href="https://aubrey-ao.github.io/">Tenglong Ao</a>
 <a href="https://talegqz.github.io/">Qingzhe Gao</a>,
 <a href="https://thorin666.github.io/">Yuke Lou</a>,
-<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
+<a href="http://baoquanchen.info/">Baoquan Chen</a>,
 <a href="http://libliu.info/">Libin Liu</a>,
 ACM Trans. Graph. 41, 6, Article 209.
 <sub>
@@ -29,7 +29,7 @@ Paper (<a href="https://arxiv.org/abs/2210.01448/">arXiv</a>)
 -
 Code (comming soon)
 -
-Explained (<a href="https://zhuanlan.zhihu.com/p/573998492/">知乎(Chinese)</a>)
+Explained (<a href="https://www.youtube.com/watch?v=DO_W8plFWco/">YouTube(English)</a> | <a href="https://zhuanlan.zhihu.com/p/573998492/">知乎(Chinese)</a>)
 -
 </p>
 
