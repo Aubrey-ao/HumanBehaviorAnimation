@@ -1,0 +1,26 @@
+name: rhyGes_simple
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ffmpeg=4.3.1
+  - joblib=1.0.1
+  - librosa=0.8.0
+  - matplotlib
+  - numpy=1.20.2
+  - pandas=1.2.4
+  - pip=21.0.1
+  - scikit-learn=0.24.1
+  - scipy=1.6.2
+  - tensorboardx=2.2
+  - tqdm=4.60.0
+  - json5=0.9.6
+  - docopt=0.6.2
+  - pip:
+      - moviepy==1.0.3
+      - tensorboard==2.5.0
+      - transforms3d==0.3.1
+      - opencv-python==4.5.5.64
+      - pyloudnorm==0.1.1
+      - omegaconf==2.3.0

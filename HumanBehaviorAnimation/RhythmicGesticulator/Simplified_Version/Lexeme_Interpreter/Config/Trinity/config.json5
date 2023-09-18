@@ -1,0 +1,35 @@
+{
+    dir_data: "../Data/Trinity/Processed/Training_Data",
+    dir_log: "./Training/Trinity",
+
+    device: "cuda:0",
+
+    batch_size: 500,
+    num_epoch: 700,
+    checkpoint_save_epoch_num: 100,
+    valid_num_epoch: 10,
+
+    optimizer: {
+        name: "AdamW",
+        hparams: {
+            lr: 1e-4,
+            betas: [0.9, 0.999],
+            eps: 1e-8,
+            weight_decay: 0.01
+        }
+    },
+
+    network: {
+        name: "LxmInterpreter",
+        hparams: {
+            aud_dim: 80,
+            embed_dim: 256,
+            num_heads: 4,
+            encoder_depth: 3,
+            decoder_depth: 3,
+            mlp_ratio: 4,
+            activation: 'gelu',
+            dropout: 0.0
+        }
+    }
+}
