@@ -27,7 +27,11 @@ Video (<a href="https://www.youtube.com/watch?v=qy2MrNhsoIs/">YouTube</a> | <a h
 -
 Paper (<a href="https://arxiv.org/abs/2210.01448/">arXiv</a>)
 -
-Code (comming soon)
+Code (<a href="https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/Simplified_Version">github</a>)
+-
+Dataset (<a href="https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/VCL_Gesture_Dataset/">github</a>)
+-
+<br>
 -
 Explained (<a href="https://www.youtube.com/watch?v=DO_W8plFWco/">YouTube(English)</a> | <a href="https://zhuanlan.zhihu.com/p/573998492/">知乎(Chinese)</a>)
 -
