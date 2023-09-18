@@ -4,7 +4,7 @@ Human Behavior Animation
 This project explores the human behavior animation, including gesture, etc., as part of my graduate research at Peking University, supervised by <a href="http://libliu.info/">Libin Liu</a>.
 
 ------------
-**SIGGRAPH Asia 2022**<br />
+**SIGGRAPH Asia 2022** ([Technical Best Paper Award](https://sa2022.siggraph.org/en/attend/award-winners/))<br />
 **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**<br />
 <sub>
 <a href="https://aubrey-ao.github.io/">Tenglong Ao</a>,
