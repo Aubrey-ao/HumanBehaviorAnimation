@@ -29,7 +29,7 @@ Paper (<a href="https://arxiv.org/abs/2210.01448/">arXiv</a>)
 -
 Code (<a href="https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/Simplified_Version">github</a>)
 -
-Dataset (<a href="https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/VCL_Gesture_Dataset/">github</a>)
+Dataset (<a href="https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/MOCCA_Gesture_Dataset/">github</a>)
 -
 <br>
 -

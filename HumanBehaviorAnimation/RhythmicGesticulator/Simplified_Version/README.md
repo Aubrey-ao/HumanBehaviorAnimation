@@ -3,7 +3,7 @@
 This is a simplified PyTorch/GPU implementation of the paper [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://pku-mocca.github.io/Rhythmic-Gesticulator-Page/).
 
 * This version is based on [Trinity Speech-Gesture Dataset (GENEA Challenge 2020)](https://trinityspeechgesture.scss.tcd.ie/).
-* If want to get better performances of motion quality and speech generalization, you can try to train the system with bigger datasets like [BEAT Dataset](https://github.com/PantoMatrix/BEAT). Besides, we also release a Chinese dataset [VCL Gesture Dataset](https://github.com/Aubrey-ao/vcl-gesture-dataset) for research purpose.
+* If want to get better performances of motion quality and speech generalization, you can try to train the system with bigger datasets like [BEAT Dataset](https://github.com/PantoMatrix/BEAT). Besides, we also release a Chinese dataset [MOCCA Gesture Dataset](https://github.com/Aubrey-ao/HumanBehaviorAnimation/tree/main/HumanBehaviorAnimation/RhythmicGesticulator/MOCCA_Gesture_Dataset) for research purpose.
 
 ### Install
 
@@ -19,13 +19,13 @@ conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit
 ### Sample
 
 Download the pretrained source from [Google Drive](https://drive.google.com/file/d/1oIbZygcHivxWcRkIki3zis6LhCklpm8L/view?usp=sharing) and put the .zip file into the root directory of this project. Then, run the script to automatically process the pretrained source:
-  
+
 ``` shell
 python process_pretrained_source.py
- ```
+```
 
 Put the test audio file {audio_file} (in .wav format) into a directory "path/{data_dir}" built by yourself, and run the script to generate gestures:
-  
+
 ``` shell
 # Only support single GPU.
 
@@ -76,7 +76,7 @@ python preprocess.py ./Config/Trinity/config.json5
 #### Run
 
 First, build the Gesture Lexicon:
-  
+
 ``` shell
 cd Gesture_Lexicon
 
@@ -104,7 +104,7 @@ CUDA_VISIBLE_DEVICES={gpu} python lexicon.py \
 ```
 
 Second, train the Gesture Generator:
-  
+
 ``` shell
 cd Gesture_Generator
 
