@@ -44,7 +44,7 @@ class Inference:
         with open(lxm_intp_cfg_path, 'r') as f:
             self.lxm_intp_cfg = OmegaConf.create(json5.load(f))
 
-        split_path = self.gen_cfg.dir_data.split(os.path.sep)
+        split_path = self.gen_cfg.dir_data.split('/')  # os.path.sep
         self.dataset_dir = os.path.join('.', *split_path[split_path.index('Data'):])
         with open(os.path.join(self.dataset_dir, 'config.json5'), 'r') as f:
             self.data_cfg = OmegaConf.create(json5.load(f))
@@ -95,7 +95,11 @@ class Inference:
 
         with open(os.path.join(self.dataset_dir, "lexicon.pkl"), "rb") as f:
             lexicon = pickle.load(f)
-        init_lxm_idx = stats.mode(lexicon.labels_).mode[0]  # default to the most frequent lexeme
+        mode_result = stats.mode(lexicon.labels_)  # default to the most frequent lexeme
+        if np.isscalar(mode_result.mode):
+            init_lxm_idx = mode_result.mode
+        else:
+            init_lxm_idx = mode_result.mode[0]
 
         processed_data = np.load(os.path.join(dir_save, f"{dataset_type}.npz"))
         aud = processed_data['audio'].astype(np.float32)  # [N(1), L, D]
