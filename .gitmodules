@@ -1,0 +1,3 @@
+[submodule "HumanBehaviorAnimation/SemanticGesticulator"]
+	path = HumanBehaviorAnimation/SemanticGesticulator
+	url = git@github.com:LuMen-ze/Semantic-Gesticulator-Official.git
