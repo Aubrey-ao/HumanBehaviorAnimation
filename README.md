@@ -31,9 +31,9 @@ Paper (<a href="https://arxiv.org/abs/2405.09814">arXiv</a>)
 -
 Project Page (<a href="https://pku-mocca.github.io/Semantic-Gesticulator-Page">github</a>)
 -
-Code (<a href="https://github.com/LuMen-ze/Semantic-Gesticulator-Official/tree/f937acb1fa52b9b952aeb3158d8a6c2306d5c4d5">github</a>)
+Code (<a href="https://github.com/LuMen-ze/Semantic-Gesticulator-Official/tree/ffaf7f598a9e2b222ddfa3512c1e54a945e09eff">github</a>)
 -
-Dataset (<a href="https://github.com/LuMen-ze/Semantic-Gesticulator-Official/tree/f937acb1fa52b9b952aeb3158d8a6c2306d5c4d5">github</a>)
+Dataset (<a href="https://github.com/LuMen-ze/Semantic-Gesticulator-Official/tree/ffaf7f598a9e2b222ddfa3512c1e54a945e09eff">github</a>)
 -
 </p>
 
